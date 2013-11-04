@@ -13,7 +13,7 @@ function wp_start_settings() {
 
     $o = array(
         'avatar_default'            => 'blank',
-        'admin_email'               => 'hej@urre.me',
+        'admin_email'               => 'hej@jrudenstam.se',
         'avatar_rating'             => 'G',
         'category_base'             => '/kategori',
         'tag_base'                  => '/etikett',
